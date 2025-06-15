@@ -1,4 +1,5 @@
-## 📊 GitHub Stats
+## 
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="500"/>
 
 <!-- Burgundy Style GitHub Stats -->
 ![Jana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jananour00&show_icons=true&theme=default&bg_color=00000000&title_color=800020&text_color=800020&icon_color=800020&border_color=800020)
