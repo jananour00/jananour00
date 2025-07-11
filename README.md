@@ -1,7 +1,7 @@
 <h2 align="center">✨ Hey Dudes! I'm Jana Nour ✨</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/69jvP3VXUYhr3YUYu9/giphy.gif" width="500" alt="cool gif"/>
+  <img src="https://i.gifer.com/Fg1M.gif" width="500" alt="cool gif"/>
 </p>
 
 ---
